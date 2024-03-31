@@ -1,0 +1,21 @@
+#timer{
+    font-size: 40px;
+    padding: 20px 20px;
+}
+
+#start, #stop, #reset { 
+    background-color:rgb(228, 224, 224);
+    font-size: 17px;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    border: solid 1px black;
+    margin-left: 10pt;
+   
+
+}
+
+.control{
+    display: flex;
+    
+}
